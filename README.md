@@ -7,7 +7,7 @@ The objective is to diagnose the underlying drivers of this decline and design a
 
 ---
 
-**## Problem Framing
+## Problem Framing
 
 ### 1. What is the real business problem?
 
