@@ -7,5 +7,3 @@ The objective is to diagnose the underlying drivers of this decline and design a
 
 ---
 
-## Problem Framing
-(To be written next)
